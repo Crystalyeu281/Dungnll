@@ -1,0 +1,46 @@
+html {
+  font-size: 10px; 
+font-family: 'Lobster', cursive;
+}
+img {
+  display:  block;
+  margin:  0 auto;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #F9D5D3;
+  padding: 0 25px 20px 25px;
+  border: 5px solid black;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poiret One', cursive;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #343638;
+}
+h2 {
+  font-size: 45px;
+  text-align: center;
+}
+h2 {
+  margin: 0;
+  padding: 20px 0;
+  color: #343638;
+ 
+}
+
+p, li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #D7DBD1;
+}
